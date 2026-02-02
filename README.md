@@ -1,16 +1,11 @@
-# cb
+# Drawing App for android
+---
+## Features :
 
-A new Flutter project.
+- Coloring Tools: Easily switch between eraser, brush, shapes, and a full color palette.
+- Undo & Redo: Stack-based history to quickly backtrack your strokes.
+- Pinch to Zoom: Smooth zooming for precise coloring.
+- Save Artwork: Save creations in-app or to your gallery.
+- Coloring Pages: Ready-made designs for instant coloring fun.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## [Linkedin Post](https://www.linkedin.com/posts/fatma-omara-757035202_introducing-my-new-drawing-app-built-activity-7270414033344684032-Bx7U?utm_medium=ios_app&rcm=ACoAADOeOPMB0E8sVmNd-rzc-Vv6dnMjG1yHu7Q&utm_source=social_share_video_v2&utm_campaign=copy_link)
